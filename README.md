@@ -42,24 +42,26 @@ $ rm master.zip <br/>
 $ rm LICENSE <br/>
 $ rm README.md <br/> <br/>
 Your *MyDir* folder must now look like this: <br/> 
+James.mp4 <br/>
 parking.jpg <br/>
-busstop.jpg <br/>
-YoloX.cpb <br/>
-yoloX.cpp <br/>
-yoloxS.bin <br/>
-yoloxS.param <br/>
-yoloxT.bin <br/>
-yoloxT.param <br/>
-yoloxN.bin <br/>
-yoloxN.param <br/>
+parking_tiny.jpg <br/>
+YoloFastestV2.cpb <br/>
+mainFV2.cpp <br/>
+yolo-fastestv2.cpp <br/>
+yolo-fastestv2.h <br/>
+yolo-fastestv2-opt.bin <br/>
+yolo-fastestv2-opt.param <br/>
 
 ------------
 
 ## Running the app.
-To run the application load the project file YoloX.cbp in Code::Blocks. More info or<br/> 
+To run the application load the project file YoloFastestV2.cbp in Code::Blocks. More info or<br/> 
 if you want to connect a camera to the app, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
-Many thanks to [nihui](https://github.com/nihui/) again!<br/><br/>
-![output image]( https://qengineering.eu/images/test_busX.webp )
+Many thanks to [dog-qiuqiu](https://github.com/dog-qiuqiu/Yolo-FastestV2) <br/><br/>
+![output image]( https://qengineering.eu/images/Panic_YoloF.jpg )<br/>
+![output image]( https://qengineering.eu/images/Panic_TFlite.jpg )<br/>
+![output image]( https://qengineering.eu/images/Panic_NanoDet.jpg )<br/>
+![output image]( https://qengineering.eu/images/Panic_MobileV1.jpg )
 
 ------------
 
