@@ -58,10 +58,10 @@ yolo-fastestv2-opt.param <br/>
 To run the application load the project file YoloFastestV2.cbp in Code::Blocks. More info or<br/> 
 if you want to connect a camera to the app, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
 Many thanks to [dog-qiuqiu](https://github.com/dog-qiuqiu/Yolo-FastestV2) <br/><br/>
-![output image]( https://qengineering.eu/images/Panic_YoloF.jpg )<br/>
-![output image]( https://qengineering.eu/images/Panic_TFlite.jpg )<br/>
-![output image]( https://qengineering.eu/images/Panic_NanoDet.jpg )<br/>
-![output image]( https://qengineering.eu/images/Panic_MobileV1.jpg )
+![output image]( https://qengineering.eu/images/Panic_YoloF+x.jpg )<br/>
+![output image]( https://qengineering.eu/images/Panic_TFlite+x.jpg )<br/>
+![output image]( https://qengineering.eu/images/Panic_NanoDet+x.jpg )<br/>
+![output image]( https://qengineering.eu/images/Panic_MobileV1+x.jpg )
 
 ------------
 
