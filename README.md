@@ -2,7 +2,8 @@
 ![output image]( https://qengineering.eu/images/test_parkFV2.jpg )
 ## YoloFastest V2 with the ncnn framework. <br/>
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
-Special made for a bare Raspberry Pi 4, see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html)
+A truly impressive YOLO family member. As long as the images are not too large and/or the objects are too small, very high frame rates are achieved with more than acceptable accuracy. Thanks [dog-qiuqiu](https://github.com/dog-qiuqiu/Yolo-FastestV2) for all the hard work.<br/><br/>
+Special adapt for a bare Raspberry Pi 4, see [Q-engineering deep learning examples](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html)
 
 ------------
 
