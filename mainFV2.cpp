@@ -82,8 +82,8 @@ int main(int argc, char** argv)
 
     for(i=0;i<16;i++) FPS[i]=0.0;
 
-    yoloF2.init(true); //we use the GPU of the Jetson Nano
-
+    yoloF2.init(false); //we have no GPU
+	
     yoloF2.loadModel("yolo-fastestv2-opt.param","yolo-fastestv2-opt.bin");
 
     cv::VideoCapture cap("James.mp4");
