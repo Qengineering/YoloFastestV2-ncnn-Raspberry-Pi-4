@@ -42,7 +42,7 @@ To run the application, you have to:
 - A Raspberry Pi 4 with a 64-bit operating system. It can be the Raspberry 64-bit OS, or Ubuntu 18.04 / 20.04. [Install 64-bit OS](https://qengineering.eu/install-raspberry-64-os.html) <br/>
 - The Tencent ncnn framework installed. [Install ncnn](https://qengineering.eu/install-ncnn-on-raspberry-pi-4.html) <br/>
 - OpenCV 64-bit installed. [Install OpenCV 4.5](https://qengineering.eu/install-opencv-4.5-on-raspberry-64-os.html) <br/>
-- Code::Blocks installed. (```$ sudo apt-get install codeblocks```)
+- Code::Blocks installed (Optional). (```$ sudo apt-get install codeblocks```)
 
 ------------
 
@@ -70,7 +70,17 @@ yolo-fastestv2-opt.param <br/>
 ------------
 
 ## Running the app.
-To run the application load the project file YoloFastestV2.cbp in Code::Blocks. More info or<br/> 
+To run the application load the project file YoloFastestV2.cbp in Code::Blocks. More info or<br/><br> 
+
+Or use **Cmake**.
+```
+$ cd *MyDir*
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make -j4
+```
+
 if you want to connect a camera to the app, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
 Many thanks to [dog-qiuqiu](https://github.com/dog-qiuqiu/Yolo-FastestV2) <br/><br/>
 ![output image]( https://qengineering.eu/images/Test_YoloF.jpg )<br/>
