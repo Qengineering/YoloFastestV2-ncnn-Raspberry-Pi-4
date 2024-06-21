@@ -70,7 +70,7 @@ yolo-fastestv2-opt.param <br/>
 ------------
 
 ## Running the app.
-To run the application load the project file YoloFastestV2.cbp in Code::Blocks. More info or<br/><br> 
+To run the application load the project file YoloFastestV2.cbp in Code::Blocks.<br> 
 
 Or use **Cmake**.
 ```
@@ -80,8 +80,7 @@ $ cd build
 $ cmake ..
 $ make -j4
 ```
-
-if you want to connect a camera to the app, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
+More info or if you want to connect a camera to the app, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
 Many thanks to [dog-qiuqiu](https://github.com/dog-qiuqiu/Yolo-FastestV2) <br/><br/>
 ![output image]( https://qengineering.eu/images/Test_YoloF.jpg )<br/>
 ![output image]( https://qengineering.eu/images/Test_TFlite.jpg )<br/>
